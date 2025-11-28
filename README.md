@@ -25,8 +25,6 @@ _3. Captar fotogramas con la cámara._
 
 _4. Mostrar nombre de la cámara en la consola._
 
-[Este script](./scripts/Camera.cs) permite captar fotogramas obtenidos por la cámara del dispositivo.
-
 ![nombre_camara](./images/nombre_camara.png)
 
 _5. Capturar imágenes y almacenarlas de manera persistente._
